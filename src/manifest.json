@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Clear Cache",
-	"version": "0.3.3.0",
-	"description": "Clear your cache and browsing data with a single click of a button.",
+	"name": "Vide ton cache !",
+	"version": "1.0",
+	"description": "Petit sprint pour oublier toute histoire de cache en un clic.",
 	"minimum_chrome_version":"19",
 	"icons": {
 		"16":"img/icon_16.png",
@@ -14,7 +14,7 @@
 	},
 	"browser_action": {
 		"default_icon":		"img/icon_19.png",
-		"default_title":	"Clear Cache"
+		"default_title":	"Vide ton cache !"
 	},
 	"options_page": "options.html",
 	"permissions": ["browsingData", "tabs", "cookies", "<all_urls>"]
