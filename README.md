@@ -14,24 +14,4 @@ On joue 10 min avec le javascript, histoire d'éviter d'exécuter n'importe quoi
 
 ## Résultat ?
 
-On en saura plus dans les prochains jours...
-
-
-
-### ...
-
-PS. J'ai gardé telles quelles les fonctionnalités, même si elles sont masquées par défaut (lien "avancé"). En voici la liste (EN) :
-
-* App Cache
-* Cache, Cookies\*
-* Downloads
-* File Systems
-* Form Data
-* History
-* Indexed DB
-* Local Storage
-* Plugin Data
-* Passwords
-* WebSQL.
-
-\* Cookies can either be removed globally, only for certain domains or for everything except for certain domains.
+https://chrome.google.com/webstore/detail/vide-ton-cache/bjllcgffahohbomoilopmbaopimondii/related
