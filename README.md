@@ -8,9 +8,11 @@ Chaque service web ayant sa propre politique de cache, et pas mal de gens rebuta
 
 Objectif 20 min pour publier un truc.
 
-Bam, GitHub est bien plus souvent ton ami que Google.
+Bam, GitHub est bien plus souvent ton ami que Google :
+https://github.com/bigspaceship/Clear-Cache-Extension
+Plus qu'il n'en faut !
 
-On joue 10 min avec le javascript, histoire d'éviter d'exécuter n'importe quoi, un poil de CSS parce que "vive les choses simples !", et emballé c'est pesé. Petit commit, petit ajout au Chrome Webstore pour simplifier la diffusion.
+On joue 10 min avec le javascript, histoire d'éviter d'exécuter n'importe quoi, un poil de CSS parce que "vive les choses simples !" et une image en hommage à un poto graphiste ((c) Liberatore), et emballé c'est pesé. Petit commit, et petit ajout au Chrome Webstore pour simplifier la diffusion.
 
 ## Résultat ?
 
